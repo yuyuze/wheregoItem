@@ -31,7 +31,7 @@ header{
     position: relative;
     margin-left: 16px;
     &::after{
-      width: 34px;
+      width: 28px;
       height: 3px;
       background: #fff;
       content: "";
@@ -42,7 +42,7 @@ header{
       left: 50%;
     }
     &::before{
-      width: 34px;
+      width: 28px;
       height: 3px;
       background: #fff;
       content: "";
